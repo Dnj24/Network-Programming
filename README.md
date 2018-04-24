@@ -1,5 +1,7 @@
 # Network-Programming
 
+Four instances of a program run across a network that emulate the operation of a distance-vector routing protocol. Given a network with initial link costs, the output will print out the initial routing table of Router0, and all updates and resulting changes to that routing table based on information from neighboring routers.
+
 This file explains how to compile and run phase2router0.java, phase2router1.java, phase2router2.java, and
 phase2router3.java on an NJIT server.
 
