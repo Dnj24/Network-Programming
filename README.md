@@ -1,6 +1,6 @@
 # Network-Programming
 
-This text file explains how to compile and run phase2router0.java, phase2router1.java, phase2router2.java, and
+This file explains how to compile and run phase2router0.java, phase2router1.java, phase2router2.java, and
 phase2router3.java on an NJIT server.
 
 phase2router0.java is the client side and all the other corresponding files are servers.
